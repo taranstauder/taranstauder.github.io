@@ -2,10 +2,12 @@
     background-color: aliceblue;
     font-family: Verdana;
 }
+
 h1 {
     text-align: center;
     font-size: 50px;
 }
+
 ul {
     list-style: none;
     margin: 0;
@@ -33,4 +35,24 @@ li a {
 li a:hover {
     color: azure;
     zoom: 1.1;
+}
+
+img {
+    width: 450px;
+    height: auto;
+    margin-left: 155px;
+    margin-top: 135px;
+    float: left;
+    padding-right: 95px;
+}
+
+.para {
+    text-align: center;
+    margin-top: 75px;
+    background-color: floralwhite;
+    padding: 2px;
+    width: 535px;
+    border-radius: 20px;
+    float: left;
+    margin-right: 80px;
 }
