@@ -37,13 +37,14 @@ li a:hover {
     zoom: 1.1;
 }
 
-img {
+#price {
     width: 450px;
     height: auto;
     margin-left: 155px;
     margin-top: 135px;
     float: left;
     padding-right: 95px;
+    margin-bottom: 50px;
 }
 
 .para {
@@ -55,4 +56,10 @@ img {
     border-radius: 20px;
     float: left;
     margin-right: 80px;
+    margin-bottom: 50px;
+}
+
+footer {
+    text-align: center;
+    margin: 0px;
 }
