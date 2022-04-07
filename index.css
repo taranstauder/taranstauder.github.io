@@ -10,22 +10,30 @@ h1 {
 
 h2 {
     display: inline-block;
-    padding-left: 30px;
     vertical-align: top;
     margin-top: 0px;
-    padding-top: 50px;
+    padding-top: 40px;
+    padding-right: 130px;
+}
+
+p {
+    padding-right: 200px;
+    width: 1220px;
 }
 
 .intro {
     padding-left: 30px;
-    padding-right: 100px;
+    padding-right: 20px;
+    float: left;
+    vertical-align: top;
+    display: block;
 }
 
-img {
+#me {
     width: 250px;
     height: auto;
     padding-left: 100px;
-    padding-top: 50px;
+    padding-top: 40px;
 }
 
 ul {
@@ -47,6 +55,10 @@ li a {
     border-radius: 20px;
     padding: 14px;
     width: 75%;
+}
+
+#stupid {
+    padding-bottom: 143px;
 }
 
 li a:hover {
