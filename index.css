@@ -12,12 +12,12 @@ h2 {
     display: inline-block;
     vertical-align: top;
     margin-top: 0px;
-    padding-top: 40px;
+    padding-top: 35px;
     padding-right: 130px;
 }
 
 p {
-    padding-right: 200px;
+    padding-right: 135px;
     width: 1220px;
 }
 
@@ -33,7 +33,7 @@ p {
     width: 250px;
     height: auto;
     padding-left: 100px;
-    padding-top: 40px;
+    padding-top: 35px;
 }
 
 ul {
@@ -58,7 +58,7 @@ li a {
 }
 
 #stupid {
-    padding-bottom: 143px;
+    padding-bottom: 135px;
 }
 
 li a:hover {
